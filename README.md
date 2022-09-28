@@ -18,7 +18,7 @@ After cleaning the data it was noted that there were quite a few null data eleme
 
 ![null](Resources/Nulls.png)
 
-Once we the data had been cleaned and processed there are a couple of obvious conclusions. The Charter schools seem to offer better reading scores while also being less funded than the Public Schools.
+Once the had been cleaned and processed there were a couple of obvious conclusions. The Charter schools seem to offer better reading scores while also being less funded than the Public Schools.
 A deeper analysis could include aspects of funding by district, funding by school type, and outcomes based on funding and student population.
 
 
